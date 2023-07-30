@@ -116,7 +116,6 @@ async def unknown_message(msg: types.Message):
 
 
 async def main():
-    print('Бот запустился!')
     bot = Bot(
         token=TOKEN,
         parse_mode=types.ParseMode.HTML,
