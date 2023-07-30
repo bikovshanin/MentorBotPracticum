@@ -23,5 +23,6 @@ links = {
     'photo1': 'media/...',
     'photo2': 'media/...',
     'photo3': 'media/...',
-    'repository': 'https://github.com/bikovshanin?tab=repositories'
+    'repository': 'https://github.com/bikovshanin/MentorBotPracticum/tree'
+                  '/master'
 }
